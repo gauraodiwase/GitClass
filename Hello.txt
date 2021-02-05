@@ -1,2 +1,3 @@
 Hello JI...........
 change 1 ->  pushing the change without -u
+change 2 -> trying to pull the change 
